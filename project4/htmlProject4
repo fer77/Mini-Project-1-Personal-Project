@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="cssProject4" media="screen" title="no title" charset="utf-8">
+  <title>Project4</title>
+</head>
+
+<body>
+  <div class="container0">
+    <div class="container1">
+      <header class="topNavBar">
+        <div class="logo">
+          <a href="http://wideopentech.com/">
+            <img src="https://avatars3.githubusercontent.com/u/1309766?v=3&s=280" alt="Wide Open Technologies">
+          </a>
+          <div class="navMenu">
+            <p>Services</p>
+            <p>Company</p>
+            <p>Portafolio</p>
+            <p>Careers</p>
+            <p>Blog</p>
+            <p>Contact</p>
+          </div>
+        </div>
+      </header>
+    </div>
+  </div>
+</body>
+
+</html>
