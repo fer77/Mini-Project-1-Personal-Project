@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    display: block;
+    background-color: white;
+    margin:.3em 0;
+}
+.intro {
+    margin: 1.3em 14em;
+}
+.welcome {
+    text-align: right;
+}
+.linkHolder {
+    vertical-align: middle;
+    text-align: center;
+    margin: 1.5em 9em;
+    line-height: 175px;
+}
+.logo {
+    display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
+img {
+    border: none;
+    vertical-align: middle;
+    width: 135px;
+}
+.footer p {
+    margin: 1.3em 14em;
+    text-align: center;
+}
+.legal {
+    vertical-align: middle;
+    text-align: center;
+}
